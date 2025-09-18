@@ -1,31 +1,23 @@
+<div style="position: relative; text-align: center; width: 100%;">
+  <img src="https://as1.ftcdn.net/v2/jpg/02/45/81/46/1000_F_245814629_noygJpYLnIjck3JQJ4mzyvDs7nwddvTG.jpg" 
+       alt="Hacker Banner" width="100%" style="border-radius: 12px;">
 
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
-             color: white; font-size: 2.5em; font-weight: bold; text-align: center;
-             text-shadow: 2px 2px 6px rgba(0,0,0,0.8);">
-    😈 Hey, I’m Ajit Pawara
+             color: white; font-size: 2.5em; font-weight: bold; text-shadow: 2px 2px 6px rgba(0,0,0,0.8);">
+    😈 Ajit Pawara
   </h1>
 </div>
 
+<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Entrepreneur 🚀 | India</h3>
 
+---
 
-
-
-<h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
-
-
-
-- 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
-
-- 🌱 I’m currently learning **Advanced Linux, Java, cybersecurity, and web development 💻**
-
-- 👯 I’m looking to collaborate on **Cybersecurity projects, Ethical hacking tools, and web development initiatives**
-
-- 💬 Ask me about **Hacking, Cybersecurity, Linux, Java… and occasionally smashing volleyballs 🏐😎**
-
-- 📫 How to reach me **ajitdawar1719@gmail.com |9322076276**
-
-- ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
-
+- 🔭 Working on **Hacking skills + Entrepreneurship**  
+- 🌱 Learning **Linux, Java, Cybersecurity, Web Dev**  
+- 👯 Open to collab on **Security tools & Web projects**  
+- 💬 Ask me about **Hacking, Cyber, Linux, Java… & Volleyball 🏐**  
+- 📫 Reach me: **ajitdawar1719@gmail.com**  
+- ⚡ Fun fact: **Securing systems or smashing spikes 🔐🏐**
 
 
 <h3 align="left">Connect with me:</h3>
