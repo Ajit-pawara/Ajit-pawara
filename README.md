@@ -1,11 +1,4 @@
-<div style="position: relative; display: inline-block; width: 100%; max-width: 1000px;">
-  <!-- Image -->
-  <a href="https://as1.ftcdn.net/v2/jpg/02/45/81/46/1000_F_245814629_noygJpYLnIjck3JQJ4mzyvDs7nwddvTG.jpg" target="_blank">
-    <img src="https://as1.ftcdn.net/v2/jpg/02/45/81/46/1000_F_245814629_noygJpYLnIjck3JQJ4mzyvDs7nwddvTG.jpg" 
-         alt="Hacker Banner" width="100%" style="border-radius: 12px;">
-  </a>
 
-  <!-- Overlay text -->
   <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
              color: white; font-size: 2.5em; font-weight: bold; text-align: center;
              text-shadow: 2px 2px 6px rgba(0,0,0,0.8);">
@@ -19,9 +12,7 @@
 
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
 
-- <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" target="_blank" style="float: left; margin-right: 10px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" alt="Funny Hacker GIF" width="300">
-</a>
+
 
 - 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
 
