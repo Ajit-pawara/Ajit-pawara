@@ -1,5 +1,15 @@
-<h1 align="center"> Ajit Pawara</h1>
+<h1 align="center">Hi i'm Ajit Pawara</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
+
+- 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
+
+- 🌱 I’m currently learning **Advanced Linux, Java, cybersecurity, and web development 💻**
+
+- 👯 I’m looking to collaborate on **Cybersecurity projects, Ethical hacking tools, and web development initiatives**
+
+- 💬 Ask me about **Hacking, Cybersecurity, Linux, Java… and occasionally smashing volleyballs 🏐😎**
+
+- 📫 How to reach me **ajitdawar1719@gmail.com |9322076276**
 
 - ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
 
