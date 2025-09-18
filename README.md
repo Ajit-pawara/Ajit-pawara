@@ -1,4 +1,4 @@
-<h1 align="center">Hi i'm Ajit Pawara</h1>
+<h1 align="center"> Ajit Pawara</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
 
 - ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
