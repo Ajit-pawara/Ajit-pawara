@@ -1,8 +1,4 @@
-<a href="https://share.google/images/IUS2JA7A8G3Qldnjc" target="_blank" style="float: left; margin-right: 10px;">
-  <img src="https://share.google/images/IUS2JA7A8G3Qldnjc" alt="Shared Image" width="300">
-</a>
-
-
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F2217827-hacker-vector-trendy-banner&psig=AOvVaw0oZMlVti7Pm9rVV3x1EX7j&ust=1758296897196000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODvyMPU4o8DFQAAAAAdAAAAABAL
 
 
 <h1 align="center">😈 Hey, I’m Ajit Pawara</h1>
