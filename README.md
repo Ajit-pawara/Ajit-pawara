@@ -2,8 +2,6 @@
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
 
 
-<h1 >________________________________________________________</h1>
-
 
 
 - 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
