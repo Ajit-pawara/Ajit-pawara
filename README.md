@@ -3,18 +3,37 @@
 
 
 
+<table>
+  <tr>
+    <!-- Left Side: Info -->
+    <td width="70%" valign="top">
 
-- 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
+- 🔭 Working on **Hacking skills + Entrepreneurship 🚀**  
+- 🌱 Learning **Linux, Java, Cybersecurity, Web Dev 💻**  
+- 👯 Open to collab on **Security tools & Web projects**  
+- 💬 Ask me about **Hacking, Cyber, Linux, Java & Volleyball 🏐😎**  
+- 📫 Reach me: **ajitdawar1719@gmail.com | 9322076276**  
 
-- 🌱 I’m currently learning **Advanced Linux, Java, cybersecurity, and web development 💻**
+    </td>
 
-- 👯 I’m looking to collaborate on **Cybersecurity projects, Ethical hacking tools, and web development initiatives**
+    <!-- Right Side: GIF -->
+    <td width="30%" align="center" valign="top">
+      <a href="https://example.com/your-other-link" target="_blank">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" 
+             alt="Funny Hacker GIF" width="250">
+      </a>
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **Hacking, Cybersecurity, Linux, Java… and occasionally smashing volleyballs 🏐😎**
 
-- 📫 How to reach me **ajitdawar1719@gmail.com |  9322076276**
 
-- ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
