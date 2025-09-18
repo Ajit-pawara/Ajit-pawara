@@ -1,4 +1,4 @@
-<h1 align="center">😈 Hey, I’m Ajit Pawara</h1>
+<h1 align="center">😈 Hey, I’m Ajit Pawara</h1><h1 align="center">
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
 
 - 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
@@ -9,12 +9,13 @@
 
 - 💬 Ask me about **Hacking, Cybersecurity, Linux, Java… and occasionally smashing volleyballs 🏐😎**
 
-- 📫 How to reach me **ajitdawar1719@gmail.com |  9322076276**
+- 📫 How to reach me **ajitdawar1719@gmail.com |9322076276**
 
 - ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ajit-pawara-69541a305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ajit-pawara-69541a305/" height="30" width="40" /></a>
 <a href="https://instagram.com/robin_.ii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="robin_.ii" height="30" width="40" /></a>
 </p>
 
