@@ -1,12 +1,7 @@
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F120097&psig=AOvVaw1XjW4mcMXc2KpBtyo303We&ust=1758296625760000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjU6sLT4o8DFQAAAAAdAAAAABAE" target="_blank" style="float: left; margin-right: 10px;">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F120097&psig=AOvVaw1XjW4mcMXc2KpBtyo303We&ust=1758296625760000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjU6sLT4o8DFQAAAAAdAAAAABAE" alt="GIF from Alphacoders" width="300">
-</a>
 
 <h1 align="center">😈 Hey, I’m Ajit Pawara</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
-<a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" target="_blank" style="float: left; margin-right: 10px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" alt="Funny Hacker GIF" width="300">
-</a>
+
 
 
 - 🔭 I’m currently working on **developing hacking skills and entrepreneurship 🚀**
@@ -20,6 +15,10 @@
 - 📫 How to reach me **ajitdawar1719@gmail.com |9322076276**
 
 - ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
+
+- <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" target="_blank" style="float: left; margin-right: 10px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" alt="Funny Hacker GIF" width="300">
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
