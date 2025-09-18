@@ -1,6 +1,7 @@
-<a href="https://www.vecteezy.com/vector-art/2217827-hacker-vector-trendy-banner" target="_blank" style="float: left; margin-right: 10px;">
-  <img src="DIRECT_IMAGE_URL_HERE" alt="Hacker Trendy Banner" width="300">
+<a href="https://as1.ftcdn.net/v2/jpg/02/45/81/46/1000_F_245814629_noygJpYLnIjck3JQJ4mzyvDs7nwddvTG.jpg" target="_blank" style="float: left; margin-right: 10px;">
+  <img src="https://as1.ftcdn.net/v2/jpg/02/45/81/46/1000_F_245814629_noygJpYLnIjck3JQJ4mzyvDs7nwddvTG.jpg" alt="Hacker Image" width="300">
 </a>
+
 
 
 <h1 align="center">😈 Hey, I’m Ajit Pawara</h1>
