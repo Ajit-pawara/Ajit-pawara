@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Hacking, Cybersecurity, Linux, Java… and occasionally smashing volleyballs 🏐😎**
 
-- 📫 How to reach me **ajitdawar1719@gmail.com |9322076276**
+- 📫 How to reach me **ajitdawar1719@gmail.com |  9322076276**
 
 - ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
 
