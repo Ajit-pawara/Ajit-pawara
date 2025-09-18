@@ -1,4 +1,6 @@
-
+- <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" target="_blank" style="float: left; margin-right: 10px;">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" alt="Funny Hacker GIF" width="300">
+</a>
 <h1 align="center">😈 Hey, I’m Ajit Pawara</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
 
@@ -16,9 +18,7 @@
 
 - ⚡ Fun fact **When I’m not securing systems, I’m smashing spikes on the volleyball court 🏐🔐**
 
-- <a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" target="_blank" style="float: left; margin-right: 10px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" alt="Funny Hacker GIF" width="300">
-</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
