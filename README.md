@@ -11,7 +11,7 @@
 - 🔭 Working on **Hacking skills + Entrepreneurship 🚀**  
 - 🌱 Learning **Linux, Java, Cybersecurity, Web Dev 💻**  
 - 👯 Open to collab on **Security tools & Web projects**  
-- 💬 Ask me about **Hacking, Cyber, Linux, Java & Volleyball 🏐😎**  
+- 💬 Ask me about **Hacking, Cyber, Linux, python,c++ & Volleyball 🏐😎**  
 - 📫 Reach me: **ajitdawar1719@gmail.com | 9322076276**  
 
     </td>
