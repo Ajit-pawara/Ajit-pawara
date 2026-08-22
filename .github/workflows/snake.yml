@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Run daily at 6 AM UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: mshahriar42/github-profile-readme-snake@v1
+        with:
+          github_user_name: Ajit-pawara
+          outputs: |
+            dist/snake.svg=github-contribution-grid-snake.svg
+            dist/snake-dark.svg=github-contribution-grid-snake-dark.svg
+          snake_color: "#00ff00"
+          snake_head_color: "#ff0000"
+          tail_color: "#00ff00"
+          number_of_animations: 3
+          commit_message: "Update snake animation 🐍"
+          branch: main
