@@ -20,11 +20,27 @@ jobs:
         uses: platane/snk@v3
         with:
           github_user_name: Ajit-pawara
-          outputs: |
-            output/snake.svg=github-contribution-grid-snake.svg
-            output/snake-dark.svg=github-contribution-grid-snake-dark.svg
       
-      - name: Verify snake files
+      - name: Find and copy snake SVG
+        run: |
+          echo "=== Root directory ==="
+          ls -la *.svg 2>/dev/null || echo "No SVG in root"
+          echo "=== All SVG files ==="
+          find . -name "*.svg" -type f 2>/dev/null
+          
+          # Copy generated snake to output/
+          if [ -f github-contribution-grid-snake.svg ]; then
+            cp github-contribution-grid-snake.svg output/snake.svg
+            echo "Copied github-contribution-grid-snake.svg to output/snake.svg"
+          elif [ -f snake.svg ]; then
+            cp snake.svg output/snake.svg
+            echo "Copied snake.svg to output/snake.svg"
+          else
+            echo "No snake SVG found!"
+            exit 1
+          fi
+      
+      - name: Verify output
         run: ls -la output/
       
       - name: Commit snake animation
