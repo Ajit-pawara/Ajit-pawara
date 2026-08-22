@@ -6,8 +6,8 @@
     <td width="70%" valign="top">
       
 - 🔭 **Working on:** Hacking skills + Entrepreneurship 🚀  
-- 🌱 **Learning:** Linux, Java, Cybersecurity, Web Dev 💻  
-- 👯 **Open to collab on:** Security tools & Web projects  
+- 🌱 **Learning:** Linux, c++,python, Cybersecurity, Web Dev 💻  
+- 👯 **Open to collab on:** Security tools ,Web projects & volleyball....
 - 💬 **Ask me about:** Hacking, Cyber, Linux, Python, C++ & Volleyball 🏐😎  
 - 📫 **Reach me:** ajitdawar1719@gmail.com  
       
