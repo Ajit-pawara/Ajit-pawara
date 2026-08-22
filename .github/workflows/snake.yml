@@ -18,9 +18,3 @@ jobs:
           outputs: |
             output/snake.svg=github-contribution-grid-snake.svg
             output/snake-dark.svg=github-contribution-grid-snake-dark.svg
-          snake_color: "#00ff00"
-          snake_head_color: "#ff0000"
-          tail_color: "#00ff00"
-          number_of_animations: 3
-          commit_message: "Update snake animation 🐍"
-          branch: main
