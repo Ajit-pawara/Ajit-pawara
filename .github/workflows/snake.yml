@@ -12,9 +12,25 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: platane/snk@v3
+      
+      - name: Create output directory
+        run: mkdir -p output
+      
+      - name: Generate snake animation
+        uses: platane/snk@v3
         with:
           github_user_name: Ajit-pawara
           outputs: |
             output/snake.svg=github-contribution-grid-snake.svg
             output/snake-dark.svg=github-contribution-grid-snake-dark.svg
+      
+      - name: Verify snake files
+        run: ls -la output/
+      
+      - name: Commit snake animation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Update snake animation 🐍"
+          git push
