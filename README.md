@@ -1,20 +1,15 @@
-<h1 align="center">Don’t make me hack your snacks</h1>
+<h1 align="center">Don't make me hack your snacks</h1>
 <h3 align="center">Cybersecurity Enthusiast | Ethical Hacker | Future Entrepreneur 🚀 | India</h3>
 
 <table>
   <tr>
-    <!-- Left Side: Info -->
     <td width="70%" valign="top">
-
 - 🔭 Working on **Hacking skills + Entrepreneurship 🚀**  
 - 🌱 Learning **Linux, Java, Cybersecurity, Web Dev 💻**  
 - 👯 Open to collab on **Security tools & Web projects**  
 - 💬 Ask me about **Hacking, Cyber, Linux, python,c++ & Volleyball 🏐😎**  
 - 📫 Reach me: **ajitdawar1719@gmail.com**  
-
     </td>
-
-    <!-- Right Side: GIF -->
     <td width="30%" align="center" valign="top">
       <a href="https://github.com/Ajit-pawara" target="_blank">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZnY2hocWUxNjdud2lubDhhZGpoMGViYmp4dXRpa2k0bWNzZHNuMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" 
@@ -69,10 +64,24 @@ This profile features a snake animation generated daily via GitHub Actions. The 
 
 ---
 
-### 🚀 Projects
-- **Security Toolkit** — Collection of custom scripts for reconnaissance and enumeration
-- **Web Vulnerability Scanner** — Automated scanner for common web vulnerabilities
-- **CTF Writeups** — Documented solutions for various Capture The Flag challenges
+### 🚀 Software Projects Registry
+*A curated index of security modules, utility applications, and static assets engineered individually.*
+
+| Project | Description |
+|---------|-------------|
+| **RobinCracker** | Password Hash Analysis Toolkit |
+| **General Championship Scoreboard** | Tournament scoring platform |
+| **Personal Portfolio Website** | Developer portfolio showcase |
+| **Cybersecurity 90-Day Challenge Tracker** | Progress tracking for security learning |
+| **Library Management System** | Book inventory & lending system |
+| **College Resource Sharing Hub** | Academic resource distribution platform |
+| **BreedSense Dog Classifier** | Dog breed identification using ML |
+| **Database Management System Labs** | DBMS practical implementations |
+| **TourneyPro** | Tournament organization platform |
+| **Breed Sense (ML)** | ML variant with Python backend |
+| **Fresher Tickets** | Event ticketing system |
+| **TypeMaster** | Typing speed test & analytics |
+| **MailGuardian** | Email security & phishing detection |
 
 ---
 

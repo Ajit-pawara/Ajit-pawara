@@ -1,8 +1,8 @@
 name: Generate Snake Animation
 on:
   schedule:
-    - cron: "0 6 * * *"  # Run daily at 6 AM UTC
-  workflow_dispatch:  # Allow manual trigger
+    - cron: "0 6 * * *"
+  workflow_dispatch:
 
 jobs:
   generate-snake:
@@ -11,16 +11,13 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate snake animation
-        uses: mshahriar42/github-profile-readme-snake@v1
+      - uses: actions/checkout@v4
+      - uses: mshahriar42/github-profile-readme-snake@v1
         with:
           github_user_name: Ajit-pawara
           outputs: |
-            dist/snake.svg=github-contribution-grid-snake.svg
-            dist/snake-dark.svg=github-contribution-grid-snake-dark.svg
+            output/snake.svg=github-contribution-grid-snake.svg
+            output/snake-dark.svg=github-contribution-grid-snake-dark.svg
           snake_color: "#00ff00"
           snake_head_color: "#ff0000"
           tail_color: "#00ff00"
