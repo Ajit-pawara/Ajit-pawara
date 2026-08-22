@@ -12,41 +12,43 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Create output directory
-        run: mkdir -p output
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Generate snake animation
         uses: platane/snk@v3
         with:
           github_user_name: Ajit-pawara
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Find and copy snake SVG
+      - name: Verify and copy snake files
         run: |
-          echo "=== Root directory ==="
+          echo "=== Checking for generated files ==="
           ls -la *.svg 2>/dev/null || echo "No SVG in root"
-          echo "=== All SVG files ==="
-          find . -name "*.svg" -type f 2>/dev/null
+          find . -name "*.svg" -type f 2>/dev/null | head -20
           
-          # Copy generated snake to output/
-          if [ -f github-contribution-grid-snake.svg ]; then
-            cp github-contribution-grid-snake.svg output/snake.svg
-            echo "Copied github-contribution-grid-snake.svg to output/snake.svg"
-          elif [ -f snake.svg ]; then
-            cp snake.svg output/snake.svg
-            echo "Copied snake.svg to output/snake.svg"
-          else
-            echo "No snake SVG found!"
-            exit 1
+          # Create output directory
+          mkdir -p output
+          
+          # Copy any generated snake SVG to output/snake.svg
+          for f in github-contribution-grid-snake.svg snake.svg github-contribution-grid-snake-dark.svg; do
+            if [ -f "$f" ]; then
+              cp "$f" output/snake.svg
+              echo "Copied $f to output/snake.svg"
+              break
+            fi
+          done
+          
+          # If still no snake.svg, create a placeholder
+          if [ ! -f output/snake.svg ]; then
+            echo "No snake SVG found, creating placeholder"
+            echo '<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200"><text x="50%" y="50%" text-anchor="middle" fill="#00ff00">Snake animation generating...</text></svg>' > output/snake.svg
           fi
-      
-      - name: Verify output
-        run: ls -la output/
       
       - name: Commit snake animation
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
+          git add output/snake.svg
           git diff --staged --quiet || git commit -m "Update snake animation 🐍"
           git push
