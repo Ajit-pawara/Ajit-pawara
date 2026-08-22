@@ -4,11 +4,13 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-- 🔭 Working on **Hacking skills + Entrepreneurship 🚀**  
-- 🌱 Learning **Linux, Java, Cybersecurity, Web Dev 💻**  
-- 👯 Open to collab on **Security tools & Web projects**  
-- 💬 Ask me about **Hacking, Cyber, Linux, python,c++ & Volleyball 🏐😎**  
-- 📫 Reach me: **ajitdawar1719@gmail.com**  
+      
+- 🔭 **Working on:** Hacking skills + Entrepreneurship 🚀  
+- 🌱 **Learning:** Linux, Java, Cybersecurity, Web Dev 💻  
+- 👯 **Open to collab on:** Security tools & Web projects  
+- 💬 **Ask me about:** Hacking, Cyber, Linux, Python, C++ & Volleyball 🏐😎  
+- 📫 **Reach me:** ajitdawar1719@gmail.com  
+      
     </td>
     <td width="30%" align="center" valign="top">
       <a href="https://github.com/Ajit-pawara" target="_blank">
