@@ -69,19 +69,19 @@ This profile features a snake animation generated daily via GitHub Actions. The 
 
 | Project | Description |
 |---------|-------------|
-| **RobinCracker** | Password Hash Analysis Toolkit |
-| **General Championship Scoreboard** | Tournament scoring platform |
-| **Personal Portfolio Website** | Developer portfolio showcase |
-| **Cybersecurity 90-Day Challenge Tracker** | Progress tracking for security learning |
-| **Library Management System** | Book inventory & lending system |
-| **College Resource Sharing Hub** | Academic resource distribution platform |
-| **BreedSense Dog Classifier** | Dog breed identification using ML |
-| **Database Management System Labs** | DBMS practical implementations |
-| **TourneyPro** | Tournament organization platform |
-| **Breed Sense (ML)** | ML variant with Python backend |
-| **Fresher Tickets** | Event ticketing system |
-| **TypeMaster** | Typing speed test & analytics |
-| **MailGuardian** | Email security & phishing detection |
+| [**RobinCracker**](https://github.com/Ajit-pawara/RobinCracker) | Password Hash Analysis Toolkit |
+| [**General Championship Scoreboard**](https://github.com/Ajit-pawara/General-Championship-Scoreboard) | Tournament scoring platform |
+| [**Personal Portfolio Website**](https://github.com/Ajit-pawara/Personal-Portfolio-Website) | Developer portfolio showcase |
+| [**Cybersecurity 90-Day Challenge Tracker**](https://github.com/Ajit-pawara/Cybersecurity-90-Day-Challenge-Tracker) | Progress tracking for security learning |
+| [**Library Management System**](https://github.com/Ajit-pawara/Library-Management-System) | Book inventory & lending system |
+| [**College Resource Sharing Hub**](https://github.com/Ajit-pawara/College-Resource-Sharing-Hub) | Academic resource distribution platform |
+| [**BreedSense Dog Classifier**](https://github.com/Ajit-pawara/BreedSense-Dog-Classifier) | Dog breed identification using ML |
+| [**Database Management System Labs**](https://github.com/Ajit-pawara/Database-Management-System-Labs) | DBMS practical implementations |
+| [**TourneyPro**](https://github.com/Ajit-pawara/TourneyPro) | Tournament organization platform |
+| [**Breed Sense (ML)**](https://github.com/Ajit-pawara/Breed-Sense-ML) | ML variant with Python backend |
+| [**Fresher Tickets**](https://github.com/Ajit-pawara/Fresher-Tickets) | Event ticketing system |
+| [**TypeMaster**](https://github.com/Ajit-pawara/TypeMaster) | Typing speed test & analytics |
+| [**MailGuardian**](https://github.com/Ajit-pawara/MailGuardian) | Email security & phishing detection |
 
 ---
 
