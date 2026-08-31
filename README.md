@@ -23,9 +23,8 @@
 
 ---
 
-### 🐍 Snake Animation (GitHub Actions)
-This profile features a snake animation generated daily via GitHub Actions. The snake eats your contributions!  
-![Snake Animation](https://raw.githubusercontent.com/Ajit-pawara/Ajit-pawara/output/snake.svg)
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Ajit-pawara&color=brightgreen&style=flat-square)
 
 ---
 
@@ -77,10 +76,7 @@ This profile features a snake animation generated daily via GitHub Actions. The 
 
 ---
 
-### 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ajit-pawara&color=brightgreen&style=flat-square)
 
----
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ajit-pawara&theme=radical&no-frame=true&no-bg=true&margin-w=4)
