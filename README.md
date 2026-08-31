@@ -22,17 +22,6 @@
   </tr>
 </table>
 
----
-
-### 📊 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Ajit-pawara&color=brightgreen&style=flat-square)
-
----
-
-### 💬 Quote of the Day
-> "The quieter you become, the more you are able to hear." — *Kali Linux Motto*
-
----
 - ### 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/axit_xxwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="axit_xxwar" height="30" width="40" /></a>
@@ -53,6 +42,19 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
+
+---
+
+### 📊 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Ajit-pawara&color=brightgreen&style=flat-square)
+
+---
+
+### 💬 Quote of the Day
+> "The quieter you become, the more you are able to hear." — *Kali Linux Motto*
+
+---
+
 
 ---
 
